@@ -1,5 +1,5 @@
 const heading = React.createElement("h1", {
-    class: "heading"
+    className: "heading"
 }, "Hello I am Buffalo");
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
